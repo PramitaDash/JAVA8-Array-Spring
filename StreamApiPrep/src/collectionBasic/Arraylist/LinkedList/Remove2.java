@@ -11,7 +11,7 @@ public class Remove2 {
         list.add(30);
         list.add(40);
 
-        list.remove(3);
+        list.remove(2);
         System.out.println(list);
     }
 }
